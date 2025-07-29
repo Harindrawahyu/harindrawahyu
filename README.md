@@ -13,7 +13,7 @@ Hi, I'm Indra!
 </p>
 
 ## 💫 About Me:
-I'm currently a student in Yatsi Madani University, Indonesia.<br>I'm currently learning Web Development and other programming Languages.
+I'm a student in Yatsi Madani University, Indonesia.<br>I'm currently learning about Web Development and other Programming Languages.
 
 
 ## 🌐 Connect with me:
